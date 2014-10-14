@@ -1,0 +1,36 @@
+{
+  "name": "passport-armortext",
+  "version": "0.0.1",
+  "description": "ArmorText OAuth2 strategy for Passport.",
+  "keywords": [
+    "passport",
+    "armortext",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/armortext/passport-armortext.git"
+  },
+  "bugs": {
+    "url": "http://github.com/armortext/passport-armortext/issues"
+  },  
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-armortext",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": "~0.1.1"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },  
+  "_id": "passport-armortext@0.0.1",
+  "_from": "passport-armortext@>=0.0.1"
+}
